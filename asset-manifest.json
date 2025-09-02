@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/collins-masira-portfolio/static/css/main.842b2b15.css",
-    "main.js": "/collins-masira-portfolio/static/js/main.39467bad.js",
-    "static/js/453.670e15c7.chunk.js": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js",
-    "index.html": "/collins-masira-portfolio/index.html",
-    "main.842b2b15.css.map": "/collins-masira-portfolio/static/css/main.842b2b15.css.map",
-    "main.39467bad.js.map": "/collins-masira-portfolio/static/js/main.39467bad.js.map",
-    "453.670e15c7.chunk.js.map": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/frontend/static/css/main.842b2b15.css",
+    "main.js": "/frontend/static/js/main.dc712f5d.js",
+    "static/js/453.670e15c7.chunk.js": "/frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/frontend/index.html",
+    "main.842b2b15.css.map": "/frontend/static/css/main.842b2b15.css.map",
+    "main.dc712f5d.js.map": "/frontend/static/js/main.dc712f5d.js.map",
+    "453.670e15c7.chunk.js.map": "/frontend/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.842b2b15.css",
-    "static/js/main.39467bad.js"
+    "static/js/main.dc712f5d.js"
   ]
 }
