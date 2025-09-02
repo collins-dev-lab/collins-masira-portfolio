@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/collins-masira-portfolio/static/css/main.dbb01d04.css",
+    "main.js": "/collins-masira-portfolio/static/js/main.a4c1e52b.js",
+    "static/js/453.670e15c7.chunk.js": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js",
+    "index.html": "/collins-masira-portfolio/index.html",
+    "main.dbb01d04.css.map": "/collins-masira-portfolio/static/css/main.dbb01d04.css.map",
+    "main.a4c1e52b.js.map": "/collins-masira-portfolio/static/js/main.a4c1e52b.js.map",
+    "453.670e15c7.chunk.js.map": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb01d04.css",
+    "static/js/main.a4c1e52b.js"
+  ]
+}
