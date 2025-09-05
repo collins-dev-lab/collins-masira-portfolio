@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/collins-masira-portfolio/static/css/main.44a38c6c.css",
-    "main.js": "/collins-masira-portfolio/static/js/main.078cc93c.js",
-    "static/js/453.670e15c7.chunk.js": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js",
+    "main.css": "/collins-masira-portfolio/static/css/main.cbbd9995.css",
+    "main.js": "/collins-masira-portfolio/static/js/main.ade2a0a3.js",
     "index.html": "/collins-masira-portfolio/index.html",
-    "main.44a38c6c.css.map": "/collins-masira-portfolio/static/css/main.44a38c6c.css.map",
-    "main.078cc93c.js.map": "/collins-masira-portfolio/static/js/main.078cc93c.js.map",
-    "453.670e15c7.chunk.js.map": "/collins-masira-portfolio/static/js/453.670e15c7.chunk.js.map"
+    "main.cbbd9995.css.map": "/collins-masira-portfolio/static/css/main.cbbd9995.css.map",
+    "main.ade2a0a3.js.map": "/collins-masira-portfolio/static/js/main.ade2a0a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.44a38c6c.css",
-    "static/js/main.078cc93c.js"
+    "static/css/main.cbbd9995.css",
+    "static/js/main.ade2a0a3.js"
   ]
 }
